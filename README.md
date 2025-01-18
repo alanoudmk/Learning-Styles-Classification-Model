@@ -6,7 +6,7 @@ We will be working on:
 - Objectives and Goals
 - Model ( CatBoost )
 - Methodology
-
+- Prototype
 
 
 
@@ -51,3 +51,6 @@ The systematic approach taken in this project to classify students' learning sty
 
 
 ***
+
+## Prototype
+
