@@ -1,7 +1,6 @@
 # Learning Styles Classification Model
 
-
-We will be working on: 
+ 
 - Problem
 - Objectives and Goals
 - Model ( CatBoost )
